@@ -59,20 +59,19 @@ class About extends Me {
 <hr></hr>
 
 <div align="center">
-<a href="https://github.com/abdelrhman-mustafa">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-mustafa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-mustafa&layout=compact&theme=tokyonight&hide_border=true" />
 
-</a>
+<br>
 
-<details>
-  <summary>More stats</summary>
+<img src="https://streak-stats.demolab.com?user=abdelrhman-mustafa&theme=tokyonight&hide_border=true" />
 
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+<br><br>
 
-</details>
+<img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-mustafa&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
 
 <hr></hr>
 
