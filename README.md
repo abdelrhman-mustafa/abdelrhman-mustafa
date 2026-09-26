@@ -1,4 +1,3 @@
-
 <div align="center" width="50">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=180&section=header&text=Hi%20There,%20I'm%20Abdelrahman%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20CS%20Student%20%40%20Tanta%20University&descAlignY=58&descSize=18" width="100%"/>
@@ -58,8 +57,6 @@ class About extends Me {
 ```
 
 <hr></hr>
-
-<div align="center">
 
 <div align="center">
 
