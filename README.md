@@ -1,10 +1,12 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=180&section=header&text=Hi%20There,%20I'm%20Abdelrahman%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20CS%20Student%20%40%20Tanta%20University&descAlignY=58&descSize=18" width="100%"/>
 
-### Hi, I'm Abdelrahman Mustafa 👋
-**Flutter Developer | Computer Science Student @ Tanta University**
+<a href="https://github.com/abdelrhman-mustafa">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Computer+Science+Student+%40+Tanta+University;Turning+ideas+into+mobile+apps+%F0%9F%93%B1" alt="Typing SVG" />
+</a><br>
+
+
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=abdelrhman-mustafa&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Gmail](https://img.shields.io/badge/Email-abdelrhmaneltohamy494%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:abdelrhmaneltohamy494@gmail.com)
