@@ -1,82 +1,140 @@
-<div align="center" width="50">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=180&section=header&text=Hi%20There,%20I'm%20Abdelrahman%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20CS%20Student%20%40%20Tanta%20University&descAlignY=58&descSize=18" width="100%"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:02569B,100:00B4D8&amp;height=210&amp;section=header&amp;text=Abdelrahman%20Mustafa&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Flutter%20Developer%20%7C%20CS%20Student%20at%20Tanta%20University&amp;descAlignY=55&amp;descSize=18"/>
 
 <a href="https://github.com/abdelrhman-mustafa">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Computer+Science+Student+%40+Tanta+University;Turning+ideas+into+mobile+apps+%F0%9F%93%B1" alt="Typing SVG" />
-</a><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00B4D8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hello+World!+I'm+Abdelrahman;Flutter+%26+Dart+Developer;Building+Beautiful+Mobile+Apps;Always+Learning+New+Things" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
 
 
+<a href="mailto:abdelrhmaneltohamy494@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="abdelrhmaneltohamy494@gmail.com"/>
+</a>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=abdelrhman-mustafa&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Gmail](https://img.shields.io/badge/Email-abdelrhmaneltohamy494%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:abdelrhmaneltohamy494@gmail.com)
+<a href="https://github.com/abdelrhman-mustafa">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
-<hr></hr>
+---
 
-### 🎓 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 💻 Computer Science & Information Systems student at **Tanta University**
-- 📱 Flutter developer, focused on building clean and functional mobile apps
-- 🌱 Currently sharpening my skills in **Dart & Flutter**, and exploring new tools along the way
-- 📫 Reach me at: **abdelrhmaneltohamy494@gmail.com**
+<p align="center">
+I'm <b>Abdelrahman Mustafa</b>, a Computer Science & Information Systems student at <b>Tanta University</b>.
+<br/>
+I'm passionate about creating clean, responsive and functional mobile applications using <b>Flutter & Dart</b>.
+</p>
 
-<hr></hr>
+- 📱 Focused on Flutter mobile app development
+- 🎓 Studying at Tanta University, Egypt
+- 🌱 Currently improving my Dart & Flutter skills
+- 💡 Interested in UI/UX and clean architecture
+- 🚀 Exploring new technologies and development tools
+- 📫 Email: **abdelrhmaneltohamy494@gmail.com**
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+---
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<div align="center">
+
+<h3>📱 Mobile Development</h3>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&amp;theme=dark" alt="Mobile Development"/>
+
+<h3>💻 Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,php,html,css&amp;theme=dark" alt="Programming Languages"/>
+
+<h3>🗄️ Database & Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=firebase,sqlite&amp;theme=dark" alt="Databases"/>
+
+<h3>⚙️ Development Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&amp;theme=dark" alt="Development Tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&amp;logo=json&amp;logoColor=white" alt="JSON"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&amp;logo=markdown&amp;logoColor=white" alt="Markdown"/>
+
+</div>
+
+---
+
+<h2 align="center">💻 My Developer Profile</h2>
 
 ```dart
-// tools_I_use organized
+class Developer {
+  final String name = "Abdelrahman Mustafa";
+  final String university = "Tanta University";
+  final String role = "Flutter Developer";
 
-class About extends Me {
-  const myTools = {
-    "ProgrammingLanguages" : { "Dart", "C++", "Python", "PHP" },
-    "Framework"            : { "Flutter" },
-    "OtherLanguages"       : { "HTML", "CSS", "Json", "Markdown" },
-    "Database"             : { "Firebase", "Sqlite" },
-    "Editors"              : { "Android Studio", "Vscode" },
-    "OtherTools"           : { "Git", "Figma" }
-  };
+  final List<String> languages = [
+    "Dart",
+    "C++",
+    "Python",
+    "PHP"
+  ];
+
+  final List<String> technologies = [
+    "Flutter",
+    "Firebase",
+    "SQLite",
+    "Git"
+  ];
+
+  final List<String> interests = [
+    "Mobile Development",
+    "UI/UX Design",
+    "Clean Architecture"
+  ];
+
+  String get currentGoal =>
+      "Building better mobile experiences";
 }
 ```
 
-<hr></hr>
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-<a href="https://github.com/abdelrhman-mustafa">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-mustafa&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00B4D8&amp;icon_color=00B4D8&amp;text_color=FFFFFF" alt="GitHub Stats"/>
 
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-mustafa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00B4D8&amp;text_color=FFFFFF" alt="Top Languages"/>
 
-<details>
-  <summary>More stats</summary>
+<br/><br/>
 
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
-</details>
+<img width="70%" src="https://streak-stats.demolab.com/?user=abdelrhman-mustafa&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00B4D8&amp;fire=00B4D8&amp;currStreakLabel=00B4D8" alt="GitHub Streak"/>
 
 </div>
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
 
-</details>
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="mailto:abdelrhmaneltohamy494@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/abdelrhman-mustafa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<h3>Thanks for visiting! 💙</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00B4D8,50:02569B,100:0D1117&amp;height=120&amp;section=footer"/>
 
 </div>
