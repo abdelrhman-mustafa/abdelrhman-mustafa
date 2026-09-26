@@ -1,3 +1,4 @@
+
 <div align="center" width="50">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=180&section=header&text=Hi%20There,%20I'm%20Abdelrahman%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20CS%20Student%20%40%20Tanta%20University&descAlignY=58&descSize=18" width="100%"/>
@@ -59,29 +60,31 @@ class About extends Me {
 <hr></hr>
 
 <div align="center">
-<a href="https://github.com/abdelrhman-mustafa">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<div align="center">
 
-</a>
+<table>
+  <tr>
+    <th align="center">⭐ Public Repos</th>
+    <th align="center">🛠 Main Language</th>
+    <th align="center">📱 Focus</th>
+    <th align="center">🎓 Status</th>
+  </tr>
+  <tr>
+    <td align="center">5+</td>
+    <td align="center">Dart / Flutter</td>
+    <td align="center">Mobile Apps</td>
+    <td align="center">CS Student</td>
+  </tr>
+</table>
 
-<details>
-  <summary>More stats</summary>
+<br>
 
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
-</details>
-
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+<img src="https://img.shields.io/badge/Dart-60%25-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-15%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-15%25-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/PHP-10%25-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 </div>
+
+<p align="center"><sub>⚠️ الأرقام دي placeholder بسيطة — عدّلها يدويًا في الملف كل ما رصيدك يزيد (سطر الجدول وقيم الـ badges فوق).</sub></p>
