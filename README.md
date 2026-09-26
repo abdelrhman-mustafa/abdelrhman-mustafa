@@ -60,6 +60,33 @@ class About extends Me {
 
 <div align="center">
 
+<div align="center">
+
+<table>
+  <tr>
+    <th align="center">⭐ Public Repos</th>
+    <th align="center">🛠 Main Language</th>
+    <th align="center">📱 Focus</th>
+    <th align="center">🎓 Status</th>
+  </tr>
+  <tr>
+    <td align="center">5+</td>
+    <td align="center">Dart / Flutter</td>
+    <td align="center">Mobile Apps</td>
+    <td align="center">CS Student</td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Dart-60%25-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-15%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-15%25-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/PHP-10%25-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+</div>
+
+<p align="center"><sub>⚠️ الأرقام دي placeholder بسيطة — عدّلها يدويًا في الملف كل ما رصيدك يزيد (سطر الجدول وقيم الـ badges فوق).</sub></p>
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-mustafa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-mustafa&layout=compact&theme=tokyonight&hide_border=true" />
 
